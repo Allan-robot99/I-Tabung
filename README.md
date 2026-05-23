@@ -1,5 +1,6 @@
 # I-Tabung
-
+Our apk file can be accessed from this gdrive link:
+https://drive.google.com/drive/folders/1XZ1pWtb686qC_p9MvZwg5DjAd4uqi4oC?usp=sharing
 ## Problem Statement
 Many families want children to build saving habits, but most savings tools are built for adults and treat saving as a simple balance tracker. They do not guide parent-child collaboration, do not translate goals into realistic recurring contributions, and do not help families pause before impulse spending or stay on track with recurring reminders.
 
