@@ -427,3 +427,8 @@ Do not commit:
 - Markdown files are currently gitignored for new Git adds in this workspace.
 - Existing credentials should still be rotated if they were ever committed or pushed previously.
 - The current app behavior treats tabung creation as a parent-only action at the UI level.
+
+
+## Developer
+1. Allan Tan
+2. Denzel QUAH 
